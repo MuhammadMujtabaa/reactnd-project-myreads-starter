@@ -196,3 +196,9 @@ button:active {
   text-align: center;
   font-size: 0.8em;
 }
+
+
+.no-results {
+  text-align: center;
+  font-size: 30px;
+}
