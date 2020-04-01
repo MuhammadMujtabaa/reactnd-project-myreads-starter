@@ -26,3 +26,13 @@ This is the starter template for the final assessment project for Udacity's Reac
  1. Do "npm install" on the root of the project
  2. Do "npm start" to start development server
  3. Do "npm run build" to export build
+
+## References
+
+ - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+ - https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
+ - https://reacttraining.com/react-router/web/example/basic
+ - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
+ - https://reactjs.org/docs/thinking-in-react.html
+ - https://reactjs.org/docs/forms.html
+
