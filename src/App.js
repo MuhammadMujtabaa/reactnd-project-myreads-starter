@@ -84,7 +84,7 @@ class BooksApp extends React.Component {
               render={() => {
                 return (
                   <div className="list-books">
-                    <Header heading="My Reads" />
+                    <Header heading="MyReads" />
                     <div className="list-books-content">
                       <div>
                         <BookShelf
