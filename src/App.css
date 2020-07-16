@@ -7,7 +7,7 @@ body {
 }
 
 body, .app {
-  background: white;
+  background: #f7f2f2;
 }
 
 /* main page */
@@ -21,7 +21,7 @@ body, .app {
 .list-books-title h1 {
   font-weight: 400;
   margin: 0;
-  color: white;
+  color: #f7f2f2;
 }
 
 .list-books-content {
@@ -40,7 +40,7 @@ body, .app {
 }
 
 .bookshelf-title {
-  border-bottom: 1px solid #dedede;
+  border-bottom: 1px solid #c9c3c3;
 }
 
 .bookshelf-books {
@@ -58,7 +58,7 @@ body, .app {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: #2e7d32;
+  background: #40d148;
   background-image: url('./icons/add.svg');
   background-repeat: no-repeat;
   background-position: center;
@@ -69,7 +69,7 @@ body, .app {
 }
 
 .open-search button:hover {
-  background-color: rgb(0, 102, 0);
+  background-color: rgba(1, 48, 1,0.7);
 }
 
 
@@ -87,7 +87,7 @@ body, .app {
 
 .search-books-input-wrapper {
   flex: 1;
-  background: #e9e;
+  background: rgba(247, 72, 247,0.8);
 }
 
 .search-books-bar input {
@@ -174,7 +174,7 @@ button:active {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 20px;
-  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  box-shadow: 0 4px 5px rgba(0,0,0,0.16), 0 4px 5px rgba(0,0,0,0.23);
 }
 
 .book-shelf-changer select {
